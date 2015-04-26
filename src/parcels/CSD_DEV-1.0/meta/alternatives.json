@@ -1,0 +1,9 @@
+{
+	"csd-dev": 
+	{
+		"destination": "/usr/bin/csd-dev",
+		"source": "bin/csd-dev",
+		"priority": 10,
+		"isDirectory": false
+	}
+}

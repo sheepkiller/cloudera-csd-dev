@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "name": "CSD_DEV",
+  "version": "1.0",
+  "setActiveSymlink": true,
+
+  "depends": "CDH",
+  "replaces": "",
+  "conflicts": "",
+  "scripts": {
+      "defines" : "csd_dev_env.sh"
+  },
+  "packages": 
+	[
+		{
+			"name": "csd-dev",
+			"version": "1.0"
+		}
+	],
+
+	"components": 
+	[
+		{
+			"name": "csd-dev",
+			"version": "1.0"
+		}
+	],
+
+	"provides": 
+	[
+		"csd-dev"
+	],
+   "users": {},
+   "groups": []
+}
