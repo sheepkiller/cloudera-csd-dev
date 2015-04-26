@@ -21,6 +21,10 @@
     {
       "name" : "HIVE",
       "required" : "false"
+    },
+    {
+      "name" : "KAFKA",
+      "required" : "false"
     }
   ],
    "rolesWithExternalLinks" : ["CSD_DEV_WEBSERVER"],
@@ -36,6 +40,7 @@
           "description" : "The web server port number",
           "required" : "true",
           "type" : "port",
+          "configurableInWizard" : true,
           "default" : 8080
         }
       ],
