@@ -19,6 +19,54 @@
       "required" : "false"
     },
     {
+      "name" : "MAPREDUCE",
+      "required" : "false"
+    },
+    {
+      "name" : "HBASE",
+      "required" : "false"
+    },
+    {
+      "name" : "OOZIE",
+      "required" : "false"
+    },
+    {
+      "name" : "ZOOKEEPER",
+      "required" : "false"
+    },
+    {
+      "name" : "HUE",
+      "required" : "false"
+    },
+    {
+      "name" : "YARN",
+      "required" : "false"
+    },
+    {
+      "name" : "IMPALA",
+      "required" : "false"
+    },
+    {
+      "name" : "FLUME",
+      "required" : "false"
+    },
+    {
+      "name" : "SOLR",
+      "required" : "false"
+    },
+    {
+      "name" : "SQOOP",
+      "required" : "false"
+    },
+    {
+      "name" : "KS_INDEXER",
+      "required" : "false"
+    },
+    {
+      "name" : "SENTRY",
+      "required" : "false"
+    },
+    {
       "name" : "HIVE",
       "required" : "false"
     },
