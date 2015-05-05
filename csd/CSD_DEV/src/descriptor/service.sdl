@@ -1,8 +1,8 @@
 {
-  "name" : "CVS_DEV",
+  "name" : "CSD_DEV",
   "label" : "CSD DEV",
   "description" : "Print environment variable in your browser - please fetch the parcel first",
-  "version" : "1.0",
+  "version" : "1.0.1",
   "runAs" : { 
     "user" : "root",
     "group" : "root"
